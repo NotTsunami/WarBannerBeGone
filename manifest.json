@@ -1,0 +1,10 @@
+{
+    "name": "WarBannerBeGone",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/NotTsunami/WarBannerBeGone",
+    "description": "Sick of War Banners too? Remove them from the game with this mod!",
+    "dependencies": [
+      "tristanmcpherson-R2API-2.3.22",
+      "bbepis-BepInExPack-3.0.0"
+    ]
+}
